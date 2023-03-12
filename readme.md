@@ -1,0 +1,1 @@
+A self-initiated e-commerce database with data model in order to familiar with MySQL syntax and functionalities.
